@@ -1,3 +1,9 @@
+/*
+*File: main.c
+*Author: Nguyen Phi Hung
+*Date: 08/04/2023
+*Description: acting with Linked list
+*/
 #include<linkedlist.h>
 int main()
 {
